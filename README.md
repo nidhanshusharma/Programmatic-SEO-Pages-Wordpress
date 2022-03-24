@@ -1,4 +1,4 @@
-# Programmatic-SEO-Wordpress
+# Programmatic-SEO-Pages-in-Wordpress
 Wordpress code example of wp_rewrite rules which can be used to create SEO Friendly Dynamic pages.
 
 ### 1. Functions.php file in your wordpress theme need to be appended with the code in functions.php file
